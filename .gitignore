@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# vcpkg
+vcpkg_installed/
+
+#build files
+out/
+
+#Visual studio specific stuff
+.vs/
